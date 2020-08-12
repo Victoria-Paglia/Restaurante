@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "nombre": "Hamburguesa",
+      "description": "Completa con papas",
+      "precio": 300
+    },
+    {
+      "id": 2,
+      "nombre": "Pancho",
+      "description": "Largo, simple",
+      "precio": 100
+    },
+    {
+      "id": 3,
+      "nombre": "Empanada",
+      "description": "De jamón y queso",
+      "precio": 80
+    },
+    {
+      "id": 4,
+      "nombre": "Pizza",
+      "description": "La propia con muzza",
+      "precio": 450
+    },
+    {
+      "id": 5,
+      "nombre": "Postre del día",
+      "description": "Helado de dulce de leche",
+      "precio": 100
+    }
+  ]

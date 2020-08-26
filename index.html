@@ -12,7 +12,36 @@
 <body>
   <h1>Restaurante</h1>
   <hr>
+  
+  <div id="info-user" style="display: none">
+    <p id="user"></p> <br>
+    <button id=salir>Salir</button>
+  </div>
+
+
+  <div id="rango-precios">
+
+    <p>Ordenar por:</p>
+
+    <button id="precioAsc">Menor precio</button>
+    <button id="precioDesc">Mayor precio</button>
+    <button id="idDesc">Relevancia</button>
+
+
+    <p>Rango de precios</p> <br>
+
+    <input type="number" placeholder="Precio min." id="precio-min"> <br> <br>
+
+    <input type="number" placeholder="Precio max." id="precio-max"> <br>
+
+    <button id="añadir">Añadir filtro</button>
+
+    <button id="borrar">Borrar filtro</button>
+
+  </div>
   <div id="informacion"></div>
+
+ 
 </body>
 
 </html>

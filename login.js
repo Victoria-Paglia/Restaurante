@@ -35,6 +35,9 @@ document.addEventListener("DOMContentLoaded", function (e) {
                     usuariosArray = resultObj.data;
 
                     if (validarUsuario(usuariosArray, ingEmail.value, ingContraseña.value)) {
+                        
+                        localStorage.setItem('User-Logged', JSON.stringify({email: ingEmail.value}));
+
                         window.location = 'index.html';
                     }
                     else {

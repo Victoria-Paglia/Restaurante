@@ -1,0 +1,56 @@
+[
+    {
+        "id_menu": 1,
+        "calificacion": 5,
+        "comentario": "Las mejores hamburguesas",
+        "usuario": "fulana@mail.com"
+    },
+    {
+        "id_menu": 1,
+        "calificacion": 3,
+        "comentario": "Buena",
+        "usuario": "mengano@mail.com"
+    },
+    {
+        "id_menu": 1,
+        "calificacion": 1,
+        "comentario": "Horrible",
+        "usuario": "sultana@mail.com"
+    },
+    {
+        "id_menu": 2,
+        "calificacion": 5,
+        "comentario": "Los mejores panchos",
+        "usuario": "fulana@mail.com"
+    },
+    {
+        "id_menu": 2,
+        "calificacion": 3,
+        "comentario": "Bueno",
+        "usuario": "mengano@mail.com"
+    },
+    {
+        "id_menu": 2,
+        "calificacion": 1,
+        "comentario": "Horrible",
+        "usuario": "sultana@mail.com"
+    },
+    {
+        "id_menu": 3,
+        "calificacion": 5,
+        "comentario": "Las mejores empanadas",
+        "usuario": "fulana@mail.com"
+    },
+    {
+        "id_menu": 3,
+        "calificacion": 3,
+        "comentario": "Buena",
+        "usuario": "mengano@mail.com"
+    },
+    {
+        "id_menu": 3,
+        "calificacion": 1,
+        "comentario": "Horrible",
+        "usuario": "sultana@mail.com"
+    }
+]

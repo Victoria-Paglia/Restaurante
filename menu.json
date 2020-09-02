@@ -3,30 +3,40 @@
       "id": 1,
       "nombre": "Hamburguesa",
       "description": "Completa con papas",
-      "precio": 300
+      "precio": 300,
+      "ingredientes": "Pan brioche, bacon, cebolla caramelizada, queso chédar, carne, pepinillos, cebolla roja, tomate y lechuga batavia",
+      "salsas": "Salsa big burguer, Salsa D-Luxe, Salsa Patatas Bravas:"
     },
     {
       "id": 2,
       "nombre": "Pancho",
       "description": "Largo, simple",
-      "precio": 100
+      "precio": 100,
+      "ingredientes": "",
+      "salsas": ""
     },
     {
       "id": 3,
       "nombre": "Empanada",
       "description": "De jamón y queso",
-      "precio": 80
+      "precio": 80,
+      "ingredientes": "",
+      "salsas":  ""
     },
     {
       "id": 4,
       "nombre": "Pizza",
       "description": "La propia con muzza",
-      "precio": 450
+      "precio": 450,
+      "ingredientes": "",
+      "salsas": ""
     },
     {
       "id": 5,
       "nombre": "Postre del día",
       "description": "Helado de dulce de leche",
-      "precio": 100
+      "precio": 100,
+      "ingredientes": "",
+      "salsas": ""
     }
   ]
